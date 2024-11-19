@@ -1,0 +1,5 @@
+mam przygotowaną bazę danych i połączoną z formularzem
+mam skrypt sprawdzania łącznej ceny za zakup, ale bez dojazdu
+trzeba zrobić obliczanie ceny zależnie od dnia i ilości
+
+dodać modyfikowanie składników pizzy (potem)
